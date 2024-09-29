@@ -3,29 +3,29 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "Haii Bluesky!!",
+        title: "Haii Dimass!!",
         desc: ""
     },
     {
-        title: "Dimas apa kabar??",
-        desc: "Sehat-sehat selalu, dijaga pola makannya."
+        title: "Dimas Apa Kabar??",
+        desc: "Sedang tidak baik baik saja yaa kamuu."
     },
     {
-       title: "Teruslah percaya diri!!",
-       desc: "Jangan jadi orang yang skeptis"
+       title: "Kamu Kehilangan Arah?",
+       desc: "kamu sedang bingung dengan kehidupan yang kamu jalani saat ini? "
     },
     {
-        title:"Jadilah Spesialis",
-        desc:"Fokuslah pada apa yang benar-benar kamu inginkan dan pilih. Jangan menjadi multitasking, karena sering kali kualitas seseorang yang multitasking lebih rendah dibandingkan dengan seseorang yang fokus pada satu tujuan."
+        title:"Berat Ya Dimmm?",
+        desc:"aku merasakannya kalau yang sedang kamu alami ini sangat berat. aku cuma mau kasih tau ke kamu"
     },
     {
-        title: "Semangaat teruss!!!",
-        desc: "There are many people behind you who support you."
+        title: "Ingat baik baik yaa",
+        desc: "Allah Berfirman : Wahai Hamba-Ku yang melampaui batas kepada dirinya sendiri, janganlah kalian BERPUTUS ASA dari RAHMAT ALLAH. Sesungguhnya Allah Maha Pengampun Lagi Maha Penyayang "
     },
-    // {
-    //     title: "Jadilah Spesialis",
-    //     desc: "Kalau Kamu Risih Bilang yahh,'I Have Crush On You',Semisal kamu udah punya pacar maaf yaa karna udah confess ke kamu...mungkin segitu saja dari aku,hehe makasih yaa sudah mau dibaca."
-    // }, 
+    {
+        title: "Jika di perkuliahan ada dosen yang memberikan nilai, lalu banyak mahasiswa yang mendekati dosen untuk meminta tambahan nilai.",
+        desc: "Maka di dunia ini, kita harus mendekatkan diri kepada yang menciptakan dunia agar mendapatkan petunjuk dalam menjalani hidup."
+    }, 
     // {
     //     title: "I Have Crush On You!!",
     //     desc: "Aku tunggu Balasan Mu:)"
